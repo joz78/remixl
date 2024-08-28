@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "exp",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/jon.sol": "DataType"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/jon.sol": {
+			"keccak256": "0xaf9d083d7bf3bff2ab84575739dc41a58a36d7bb02a002ff99faa4ae787e578c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1f0daff07cbbce1d41182f5db69dd7117ebc83eeb544737290ac1d9e274192de",
+				"dweb:/ipfs/QmUEjWm3DM2nScQmZ4vX6hAoxkT2bSgFDLcytXWCuiZcix"
+			]
+		}
+	},
+	"version": 1
+}

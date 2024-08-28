@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "x",
+						"type": "uint256"
+					}
+				],
+				"name": "isAMultipleOfTen",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/conditionals.sol": "ExampleIfStatement"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/conditionals.sol": {
+			"keccak256": "0x5e15ad05aba2d68e44c17aa03b97ba6625b2dab888bb03c4c6910036715e5b35",
+			"urls": [
+				"bzz-raw://953b0b99ed8b7aa2bf45528bd99855b2afc650ffd7691141cdbb01711c2d8fe6",
+				"dweb:/ipfs/QmRdZFtgMyYERRNq8zS7viSYYUfNALyGYwagAnx436jsvw"
+			]
+		}
+	},
+	"version": 1
+}
