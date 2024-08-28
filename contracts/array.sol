@@ -33,7 +33,7 @@ contract Array{
     }
 
     function find(uint256 id) internal view returns (uint256){
-        for(uint256 i = 0; i < students.length; i++){
+        for(uint256 i = 0; i < students.length; i++ ){
             if(students[i].id == id){
                 return i;
             }
