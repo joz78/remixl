@@ -47,5 +47,6 @@ contract Array{
 
     function update (uint256 id, string memory _name) public{
         //students[i].name = _name;
+        unit
     }
 }
